@@ -37,12 +37,13 @@ python 3.8
 torch 2.0.1 (with cuda 12.2)
 nltk 3.4.5
 tqdm
-numpy
+numpy 1.22.3
 pandas
 matplotlib
 scikit_learn
 xlrd (pip install xlrd)
 seaborn
+openyxl
 ```
 
 
